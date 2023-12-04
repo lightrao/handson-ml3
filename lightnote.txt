@@ -1,0 +1,5 @@
+source of the book:
+https://github.com/ageron/handson-ml3
+
+pages:
+22
